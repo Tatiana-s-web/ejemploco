@@ -1,0 +1,43 @@
+
+   
+   h1 {color: rgb(rgb(142, 22, 22) );
+    }
+
+  
+  
+  .uno{
+    color: rgb(47, 105, 86);
+  }
+
+  #dos{
+    color: rgb(233, 235, 149);
+  }
+  p {color: rgb(49, 56, 80);} 
+
+  .hoja{
+    background-color:rgb(238, 238, 238);
+    color:rgb(142, 22, 22);
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 3px;
+    height: 10%;
+}
+  
+#imagen {
+  height: 100px;
+  width: auto;
+}
+
+h2 {color:rgb(216, 64, 64)}
+.grupo{display: flex;}
+.sub_grupo_uno{ 
+  background-color:rgb(238, 238, 238);
+  border-radius: 20px; 
+}
+
+
+.sub_grupo_dos{
+  background-color:rgb(238, 238, 238);
+  border-radius: 20px;
+}
